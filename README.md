@@ -139,7 +139,4 @@ gradients and a cleaner test of the bounded-price effect.
 
 ## Citation
 
-If you use this code, please cite:
-
-> Field-based constraint dynamics model for electricity system analysis.
-> Prototype codebase. 2025.
+If you use this code, please cite using CITATION.cff
