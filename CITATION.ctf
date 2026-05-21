@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "SER-Energy-Grid-Sim "
+message: "If you use this project, please cite the paper and repository."
+authors:
+  - family-names: "Castle"
+    given-names:  "Jordan"
+year: 2026
+url: "https://github.com/PonderWander/SER-Energy-Grid-Sim"
