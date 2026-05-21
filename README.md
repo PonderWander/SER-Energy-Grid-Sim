@@ -28,17 +28,7 @@ edge transmissibility in response to local constraint stress.
 ```bash
 pip install -r requirements.txt
 
-# Spatial dynamics + topology experiments (S1–S4 figures)
-PYTHONPATH=. python scripts/run_spatial_experiments.py
-
-# Corridor loading (CL_* figures)
-PYTHONPATH=. python scripts/run_corridor_loading.py
-
-# SW spine constraint variants (SV_* figures)
-PYTHONPATH=. python scripts/run_sw_variants.py
-
-# Dual / triple constraint cascade (DC_* figures)
-PYTHONPATH=. python scripts/run_dual_constraint.py
+python scripts/run_experiments.py
 ```
 
 All scripts are deterministic (seed=42). Outputs go to `outputs/figures/` and
