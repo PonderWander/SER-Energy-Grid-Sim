@@ -1,4 +1,4 @@
-# constraint_field
+# SER Energy Grid Sim
 
 A field-based constraint dynamics model for electricity system analysis.
 
